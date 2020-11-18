@@ -8,6 +8,6 @@ Each study sub-folder contains the following:
 
 ### Included LINCS Datasets
 - [LINCS_GTEx_GSE92743](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92743)
-- [LINCS_PCCSE_101406](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE101406)
+- [LINCS_PCCSE_GSE101406](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE101406)
 - [LINCS_Phase1_GSE92742](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742)
 - [LINCS_Phase2_GSE70138](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70138)
